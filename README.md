@@ -18,7 +18,7 @@ cv2
 pandas
 Tensorflow==2.0
 
-or download python37 without dowbloading requirements from this google drive link<not yet uploaded>
+or download python37 with all requirements already installed from this google drive link<not yet uploaded>
 
 
 
