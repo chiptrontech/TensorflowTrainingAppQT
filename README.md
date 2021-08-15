@@ -18,9 +18,13 @@ cv2
 pandas
 Tensorflow==2.0
 
-or download python37 with all requirements already installed from this google drive link<not yet uploaded>
+or download python37 with all requirements already installed from this google drive link
 
+https://drive.google.com/file/d/1-QKWjbWvoe6L4I3DzGOqu-0Z-jjApl0V/view?usp=sharing
 
+WiredQQTv1.0
+
+https://github.com/chiptrontech/WiredQTv1.0
 
 
 ![](img.png)
